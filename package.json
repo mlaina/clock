@@ -1,0 +1,26 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "view of lastick",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaina/clock.git"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "mlaina",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mlaina/clock/issues"
+  },
+  "homepage": "https://github.com/mlaina/clock#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "http-server": "^0.11.1"
+  }
+}
